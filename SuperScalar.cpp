@@ -3,7 +3,7 @@
 /*Version 2.1*****************/
 /*Compile with g++ -std=c++14*/
 /*****************************/
-
+//Tomasulo algo
 //Create reservation station
 //Create ReOrder buffer
 //Create ARF and RRF
